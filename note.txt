@@ -1,5 +1,3 @@
 - Git giúp tôi quản lý phiên bản mã nguồn dễ dàng hơn.
 - Git giúp làm việc nhóm hiệu quả và tránh ghi đè code.
 - Tôi cảm thấy Git là công cụ quan trọng trong phát triển phần mềm.
-- Tôi học được nhiều lệnh hữu ích như branch, merge, revert.
-- Tôi sẽ sử dụng Git cho các dự án nhóm trong tương lai.
