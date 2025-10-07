@@ -8,3 +8,6 @@
 - Ngày 5: Tìm hiểu GitHub Actions.
 - Ngày 6: Tạo repo nhóm và phân công công việc.
 - Ngày 7: Tổng kết và viết báo cáo học tập.
+- Tôi muốn thực hành stash trong Git.
+- Đây là dòng thay đổi đầu tiên.
+- Tôi sẽ lưu tạm các thay đổi này.
