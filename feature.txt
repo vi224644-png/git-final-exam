@@ -1,0 +1,6 @@
+Tính năng mới: Auto Backup
+- Tính năng này sẽ tự động lưu lại dữ liệu khi có thay đổi.
+- Giúp người dùng tránh mất dữ liệu do lỗi hệ thống.
+- Hoạt động tự động mỗi 10 phút.
+- Cho phép khôi phục dữ liệu nhanh chóng.
+- Giúp tăng độ tin cậy của ứng dụng.
