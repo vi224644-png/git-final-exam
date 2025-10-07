@@ -1,4 +1,4 @@
-xin chào, tôi là Phạm Trần Tuấn vĩ,
+Xin chào, tôi là Phạm Trần Tuấn Vĩ,
 Hiện tại tôi đang học ngành Công nghệ thông tin ở trường Nam cần Thơ.
 Tôi yêu thích lập trình và mong muốn trở thành lập trình viên.
 Tôi hiện đang học cách sử dụng Git và GitHub để phục vụ công việc sau này.
