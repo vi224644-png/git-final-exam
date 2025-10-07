@@ -1,6 +1,6 @@
 ## Git Final Exam
-Họ tên: Nguyễn Văn A
-MSSV: 12345678
+Họ tên: Phạm Trần Tuấn Vĩ
+MSSV: 224644
 Ngày làm bài: 07/10/2025
 
 ### Mục tiêu
