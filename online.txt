@@ -1,3 +1,6 @@
 Đây là file được tạo trực tiếp trên GitHub.
 Thực hành Git Final Exam.
 Kiểm tra đồng bộ giữa GitHub và local.
+Cập nhật thêm nội dung từ máy tính local.
+Đồng bộ hai chiều với GitHub.
+
