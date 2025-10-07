@@ -1,0 +1,3 @@
+Đây là file được tạo trực tiếp trên GitHub.
+Thực hành Git Final Exam.
+Kiểm tra đồng bộ giữa GitHub và local.
